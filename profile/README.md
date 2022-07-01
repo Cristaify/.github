@@ -1,5 +1,5 @@
-![Cristaify](https://i.hizliresim.com/36pry3t.png)
+![Cristaify](https://i.hizliresim.com/9835p3a.png)
 
 ##
-Cristaify is an economical bot. It is faster and more advanced than other bots. If you want to use the bot, you can get a code from our Discord server and start using the bot. This is because our bot is still in closed beta. Only users who have received the code can use this bot. (Whenever the bot is completely finished then the closed beta will be discontinued.)
-- Discord Server : https://discord.gg/DNWK4FBAzY
+Cristaify ekonomik bir bottur. Diğer botlara göre daha hızlı ve gelişmiştir. Botu kullanmak istiyorsanız Discord sunucumuzdan bir kod alabilir ve botu kullanmaya başlayabilirsiniz. Bunun nedeni botumuzun hala kapalı betada olmasıdır. Bu botu sadece kodu alan kullanıcılar kullanabilir. (Bot tamamen bittiğinde kapalı beta durdurulacaktır.)
+- Discord Sunucumuz : https://discord.gg/DNWK4FBAzY
