@@ -1,5 +1,5 @@
 ![Cristaify](https://i.hizliresim.com/9835p3a.png)
 
 ##
-Cristaify ekonomi botudur. Diğer botlara göre daha hızlı ve gelişmiştir. Botu kullanmak istiyorsanız Discord sunucumuzdan bir kod alabilir ve botu kullanmaya başlayabilirsiniz. Bunun nedeni botumuzun hala kapalı betada olmasıdır. Bu botu sadece kodu alan kullanıcılar kullanabilir. (Bot tamamen bittiğinde kapalı beta durdurulacaktır.)
-- Discord Sunucumuz : https://discord.gg/DNWK4FBAzY
+The soon-to-open Cristaify will be the most advanced Discord bot of its group. He's a backup bot. It is closed because it is currently under construction. If you want to find out that the bot has been opened, you can come to our Discord server.
+- Discord server : https://discord.gg/uf4RbNnAt2
