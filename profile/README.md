@@ -1,5 +1,11 @@
 ![Cristaify](https://i.hizliresim.com/9835p3a.png)
 
 ##
-The soon-to-open Cristaify will be the most advanced Discord bot of its group. He's a backup bot. It is closed because it is currently under construction. If you want to find out that the bot has been opened, you can come to our Discord server.
-- Discord server : https://discord.gg/uf4RbNnAt2
+**Cristaify what is it?** <br />
+• It is a social media application but it is a social media application for developers.
+
+**How do I register?** <br />
+• We do not have a registration process at the moment. When the application comes out, you can use it both on the computer and through the browser as you like.
+
+**Do you have a support server?** <br />
+• https://discord.gg/6yDdT8bVFF
